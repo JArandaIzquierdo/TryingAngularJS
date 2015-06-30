@@ -1,2 +1,2 @@
 # TryingAngularJS
-Having fun with Angular JS
+Having fun with Angular JS.
